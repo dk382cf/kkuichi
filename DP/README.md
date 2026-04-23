@@ -19,7 +19,6 @@ Táto príloha obsahuje:
 - `QGIS_csv/` – výstupy vo formáte CSV pre vizualizáciu v QGIS
 - `vizualizacie/` – obrázkové výstupy detekcie
 - `zdroj/` – vstupné dáta (DEM, maska)
-- `Kuruc_Dominik_DP` - projekt v QGIS
 
 ---
 
